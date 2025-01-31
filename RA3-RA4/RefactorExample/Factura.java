@@ -19,4 +19,3 @@ public class Factura {
         System.out.println("Total: " + this.total);
     }
 }
-

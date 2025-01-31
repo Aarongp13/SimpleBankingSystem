@@ -3,7 +3,7 @@ package RefactorExample;
 *
 * @author Flor Martinez
 */
-public class Factura {
+public class RefactoredFactura {
     private double subtotal;
     private double impuestos;
     private double total;
